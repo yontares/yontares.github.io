@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yontares.github.io/sitemap.html.gz
+Sitemap: https://yontares.github.io/app/sitemap.html.gz
+Sitemap: https://yontares.github.io/assets/sitemap.html.gz
+Sitemap: https://yontares.github.io/css/sitemap.html.gz
+Sitemap: https://yontares.github.io/data/sitemap.html.gz
+Sitemap: https://yontares.github.io/includes/sitemap.html.gz
+Sitemap: https://yontares.github.io/item/sitemap.html.gz
+Sitemap: https://yontares.github.io/src/sitemap.html.gz
